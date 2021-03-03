@@ -2,7 +2,7 @@
 title: "Reproducible Research_Course Project 1"
 author: "Hallieberrry"
 date: "3/2/2021"
-output: html_document
+output: html_document, file:///Users/halliezimmerman/Dropbox/My%20Mac%20(hallie-zimmermans-macbook.local)/Desktop/Reproducible-Research_Course-Project-1.html
 ---
 1) Loading And Preprocessing The Data
 ```{r}
